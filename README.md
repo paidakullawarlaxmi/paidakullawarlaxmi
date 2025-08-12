@@ -1,7 +1,13 @@
-## Hi there 👋
+r## Hi there 👋
 
 <!--
 **paidakullawarlaxmi/paidakullawarlaxmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align="center">
+  <img src="https://github.com/paidakullawarlaxmi/paidakullawarlaxmi/blob/main/Banner.png" alt="DevOpsShack Banner">
+</div>
+
+<h3 align="center">Full stack developer. I work in the Corporate IT Sector and in my free time .</h3>
 
 Here are some ideas to get you started:
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?usernamepaidakullwarlaxmi&limit=5&theme=flat&combine_all_yearly_contributions=true)
